@@ -1,0 +1,13 @@
+let nameoldperson = prompt("Qual seu Nome old")
+console.log("nameoldperson")
+let ageoldperson = prompt("Qual sua idade old")
+console.log("ageoldperson")
+let namenewperson = prompt("Qual seu Nome new")
+console.log("namenewperson")
+let agenewperson = prompt("Qual sua idade new")
+console.log("agenewperson")
+let diferenca = ageoldperson - agenewperson
+console.log("diferenca")
+alert("nameoldperson " + nameoldperson + "\nidade: " + ageoldperson)
+alert("namenewperson " + nameoldperson + "\nidade: " + ageoldperson)
+alert(diferenca)
